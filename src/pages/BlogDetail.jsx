@@ -374,7 +374,7 @@ export const BlogDetail = () => {
             <div>
               <div className="flex items-center mb-4 space-x-2">
                 <div className="w-8 h-8 bg-gradient-to-r from-[#0f0f36] to-[#2e2e9c] rounded-lg"></div>
-                <h3 className="text-xl font-bold">Dreams Marketing</h3>
+                <h3 className="text-xl font-bold">Visual Creative</h3>
               </div>
               <p className="text-gray-400">
                 Jasa pembuatan website & landing page — cepat, modern, dan
