@@ -10,7 +10,7 @@ export const packages = [
   {
     id: 1,
     name: "Silver",
-    price: "100.000 – 150.000",
+    price: "150.000 – 250.000",
     description:
       "Paket paling terjangkau untuk Anda yang baru mulai online. Cocok untuk landing page sederhana dan profesional.",
     features: [
@@ -28,7 +28,7 @@ export const packages = [
   {
     id: 2,
     name: "Gold",
-    price: "500.000",
+    price: "750.000",
     description:
       "Ideal untuk UMKM atau personal brand yang ingin punya website profesional dengan kemudahan mengelola konten sendiri.",
     features: [
