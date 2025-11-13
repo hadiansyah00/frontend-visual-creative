@@ -1,6 +1,6 @@
 // src/mock/data.js
 export const hero = {
-  title: "Bikin Website Profesional, Mulai dari 100 Ribu!",
+  title: "Bikin Website Profesional, Mulai dari 150 Ribu!",
   subtitle:
     "Tingkatkan kepercayaan bisnismu dengan website modern, cepat, dan mobile-friendly. Cocok untuk personal brand, UMKM, hingga perusahaan.",
   ctaText: "Pesan Website Sekarang",
